@@ -3,6 +3,6 @@
 
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m also working in Flutter in order to realize my own application and specialized in this language
+- 🌱 I’m currently working with Flutter to develop my own application and am specializing in this technology.
 - 📫 How to reach me: enzofantapiehamang@gmail.com
 
