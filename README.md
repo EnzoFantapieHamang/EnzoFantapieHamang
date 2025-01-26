@@ -1,6 +1,6 @@
-## Hi I'm Enzo Fantapie Hamang, I am a developer currently learning Java through an apprenticeship, and I am self-taught in mobile development.
+## Hi I'm Enzo Fantapie Hamang,
 
-
+ I am a developer currently learning Java through an apprenticeship, and I am self-taught in mobile development.
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently working with Flutter to develop my own application and am specializing in this technology.
